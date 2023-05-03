@@ -6,6 +6,7 @@ public class Hola {
 		System.out.println("Hola soy la jefa del Equipo2");
 		System.out.println("Hazte una gayola mi cuco");
 		System.out.println("holaa");
+		System.out.println("Commit de Víctor");
 	}
 
 }
